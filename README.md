@@ -3,7 +3,7 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F5000&lines=Welcome+to+AFTROLLS_BOT+WA+Bot...;Created+by+fasil+and+aftrolls...;This+is+a+Bgm+stickerbot...;With+more+features...)](https://git.io/typing-svg)
 
 <div align="center">it
-  <img border-radius: 15px src="https://i.ibb.co/N6b6cv3/ AFTROLLS. png" width="200" height="200"/>
+  <img border-radius: 15px src="https://i.ibb.co/N6b6cv3/ AFTROLLS.png" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="AFTROLLS_BOT" src="https://img.shields.io/badge/AFTROOLS_BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
@@ -92,7 +92,7 @@ Click WA logo to Join public bot Group👇
 
 ### ❤️ AFTROLLS_BOT 💙 website⤵️
 
-[![view](https://i.ibb.co/cyXKpj7/images-7-1-1.jpg)](https://maalutty_v2nijinhusni.blogspot.com)
+[![view](https://i.ibb.co/cyXKpj7/images-7-1-1.jpg)](https://aftrolls_botfasilaftrols.blogspot.com)
 
 
 ### ⚠️ Warning! 
@@ -106,9 +106,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developer
   <div align="center">
     
-![nijin-husni](https://github.com/nijin-husni.png?size=100)
+![fasil-aftrolls](https://github.com/fasil-aftrolls.png?size=100)
 
- [nijin-husni](https://github.com/nijin-husni)
+ [fasil-aftrolls](https://github.com/fasil-aftrolls)
 Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
   </div>
     
