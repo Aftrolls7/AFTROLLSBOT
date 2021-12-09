@@ -3,7 +3,7 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F5000&lines=Welcome+to+AFTROLLS_BOT+WA+Bot...;Created+by+fasil+and+aftrolls...;This+is+a+Bgm+stickerbot...;With+more+features...)](https://git.io/typing-svg)
 
 <div align="center">it
-  <img border-radius: 15px src="https://i.ibb.co/N6b6cv3/AFTROLLS.jpg" width="200" height="200"/>
+  <img border-radius: 15px src="https://i.ibb.co/N6b6cv3/ AFTROLLS. png" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="AFTROLLS_BOT" src="https://img.shields.io/badge/AFTROOLS_BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
