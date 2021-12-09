@@ -1,25 +1,25 @@
-<h3 align="center">💝MAALUTTY_V2💝</h3>
+<h3 align="center">💝AFTROLLS_BOT💝</h3>
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F5000&lines=Welcome+to+MAALUTTY_V2+WA+Bot...;Created+by+husni+and+nijin...;This+is+a+Bgm+stickerbot...;With+more+features...)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F5000&lines=Welcome+to+AFTROLLS_BOT+WA+Bot...;Created+by+fasil+and+aftrolls...;This+is+a+Bgm+stickerbot...;With+more+features...)](https://git.io/typing-svg)
 
-<div align="center">
-  <img border-radius: 15px src="https://i.ibb.co/N6b6cv3/Maalutty.png" width="200" height="200"/>
+<div align="center">it
+  <img border-radius: 15px src="https://i.ibb.co/N6b6cv3/AFTROLLS.jpg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="MAALUTTY_V2" src="https://img.shields.io/badge/MAALUTTY_V2-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="AFTROLLS_BOT" src="https://img.shields.io/badge/AFTROOLS_BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/nijin-husni"><img title="Author" src="https://img.shields.io/badge/Author-Husnijin-/MAALUTTY_V2?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/fasil-bot"><img title="Author" src="https://img.shields.io/badge/Author-Husnijin-/AFTROLLS_BOT?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/nijin-husni">nijin-husni</a> to make it public
+Project created by <a href="https://github.com/fasil-aftrolls">nijin-husni</a> to make it public
     <br>
        | © |
         Reserved |
     <br> 
 </p>
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/nijin-husni/MAALUTTY_V2&title=MAALUTTY_V2%20Views)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/nijin-husni/AFTROLLS_BOT&title=AFTROLLS_BOT%20Views)
 
 ## Setup
 <div align="center">
@@ -83,14 +83,14 @@ Click WA logo to Join public bot Group👇
 
 ### youtube👇
 
-[![subscribe](https://i.ibb.co/mqttCVQ/images-1-1.png)](https://youtube.com/channel/UCllom1TvXieyxcGaanSpMvA)
+[![subscribe](https://i.ibb.co/mqttCVQ/images-1-1.png)](https://youtube.com/c/AFTROLLSS)
 
 
 ### contact on instagram👇
 
-[![follow](https://i.ibb.co/zHdm4Hj/images-5-2.jpg)](https://www.instagram.com/_husni_ser_/)
+[![follow](https://i.ibb.co/zHdm4Hj/images-5-2.jpg)](https://www.instagram.com/aftrolls_?r=nametag)
 
-### ❤️ MAALUTTY_V2 💙 website⤵️
+### ❤️ AFTROLLS_BOT 💙 website⤵️
 
 [![view](https://i.ibb.co/cyXKpj7/images-7-1-1.jpg)](https://maalutty_v2nijinhusni.blogspot.com)
 
